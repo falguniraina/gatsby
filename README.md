@@ -74,11 +74,11 @@ Gatsby is a modern web framework for blazing fast websites.
 
 - **Performance Is Baked In.** Ace your performance audits by default. Gatsby automates code
   splitting, image optimization, inlining critical styles, lazy-loading, and prefetching resources,
-  and more to ensure your site is fast — no manual tuning required.
+  and more to ensure your site is fast — no manual tuning is required.
 
 - **Host at Scale for Pennies.** Gatsby sites don’t require servers so you can host your entire
   site on a CDN for a fraction of the cost of a server-rendered site. Many Gatsby sites can be
-  hosted entirely free on services like GitHub Pages and Netlify.
+  hosted entirely for free on services like GitHub Pages and Netlify.
 
 [**Learn how to use Gatsby for your next project.**](https://gatsbyjs.org/docs/)
 
@@ -151,13 +151,13 @@ Gatsby is dedicated to building a welcoming, diverse, safe community. We expect 
 
 ## 🤝 How to Contribute
 
-Whether you're helping us fix bugs, improve the docs, or spread the word, we'd love to have you as part of the Gatsby community! :muscle::purple_heart:
+Whether you're helping us fix bugs, improve the docs, or spreading the word, we'd love to have you as part of the Gatsby community! :muscle::purple_heart:
 
 Check out our [**Contributing Guide**](https://gatsbyjs.org/contributing/how-to-contribute/) for ideas on contributing and setup steps for getting our repositories up and running on your local machine.
 
 ### A note on how this repository is organized
 
-This repository is a [monorepo](https://trunkbaseddevelopment.com/monorepos/) managed using [Lerna](https://github.com/lerna/lerna). This means there are [multiple packages](/packages) managed in this codebase, even though we publish them to NPM as separate packages.
+This repository is a [monorepo](https://trunkbaseddevelopment.com/monorepos/) managed using [Lerna](https://github.com/lerna/lerna). This means that there are [multiple packages](/packages) managed in this codebase, even though we publish them to NPM as separate packages.
 
 ### Contributing to Gatsby v1
 
